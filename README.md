@@ -25,20 +25,24 @@ The dashboard has 4 main sections:
 
 **EXECUTIVE SUMMARY**: This page provides a concise summary of Adventure Works' product offerings, offering a broad overview of the diverse range of products they manufacture.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8cb1d82c-bb3a-44e1-9a31-f404f053e478/Untitled.png)
+![image](https://github.com/akeni1999/AdventureWorks-Analysis/assets/66996868/0877dede-fe15-445b-8888-1e4689209c40)
+
 
 
 **MAP**: This page gives an overview of performance in the various continents and countries
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/305e976d-9026-4b5e-ab40-3b769d712f6f/Untitled.png)
+![image](https://github.com/akeni1999/AdventureWorks-Analysis/assets/66996868/f43a79e7-f606-4e0e-942f-ecb610751b93)
+
 
 **PRODUCT DETAIL**: The product detail page focuses on the intricate details of the diverse product range. It presents key performance indicators (KPIs) that help identify profit trends and potential losses across different products. Additionally, it offers estimations on potential price increases for individual products and how such changes could impact sales, ultimately influencing profitability.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9212504a-aac0-46f1-91f6-cda53182ee27/Untitled.png)
+![image](https://github.com/akeni1999/AdventureWorks-Analysis/assets/66996868/504d4b08-0e02-4e6f-9993-dcbf749d36d4)
 
-**CUSTOMER DETAIL**
 
-: This page provides valuable insights about customers, including gender-related and age-related metrics, along with other useful matrices that facilitate the analysis of customer behavior.
+**CUSTOMER DETAIL**:
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c0ffb263-1593-49be-830e-d94c1689e656/Untitled.png)
+This page provides valuable insights about customers, including gender-related and age-related metrics, along with other useful matrices that facilitate the analysis of customer behavior.
+
+![image](https://github.com/akeni1999/AdventureWorks-Analysis/assets/66996868/257d8bea-6bb5-4b61-aefc-2002fe715e42)
+
 
