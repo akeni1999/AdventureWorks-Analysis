@@ -27,6 +27,7 @@ The dashboard has 4 main sections:
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8cb1d82c-bb3a-44e1-9a31-f404f053e478/Untitled.png)
 
+
 **MAP**: This page gives an overview of performance in the various continents and countries
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/305e976d-9026-4b5e-ab40-3b769d712f6f/Untitled.png)
